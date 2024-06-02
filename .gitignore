@@ -1,0 +1,10 @@
+DigiCommPy/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+venv/
+tmp/
